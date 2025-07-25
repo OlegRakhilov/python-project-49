@@ -3,3 +3,5 @@
 https://asciinema.org/connect/58db8bfa-cbf7-4c3a-8b8a-134814c879ad
 Brain-games - brain-calc
 https://asciinema.org/a/d5zaPItKXJSMcv0dLhdx2EHMU
+Brain-games - brain-gcd
+https://asciinema.org/a/ljHeYc5rRXx0vXixzYLUV8y4h
