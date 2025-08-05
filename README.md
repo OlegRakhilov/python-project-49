@@ -5,3 +5,5 @@ Brain-games - brain-calc
 https://asciinema.org/a/d5zaPItKXJSMcv0dLhdx2EHMU
 Brain-games - brain-gcd
 https://asciinema.org/a/ljHeYc5rRXx0vXixzYLUV8y4h
+Brain-games - brain-progression
+https://asciinema.org/a/eSMzvVj1RbGQ3rx9ajaRO23xd
