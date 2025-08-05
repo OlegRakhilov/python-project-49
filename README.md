@@ -7,3 +7,5 @@ Brain-games - brain-gcd
 https://asciinema.org/a/ljHeYc5rRXx0vXixzYLUV8y4h
 Brain-games - brain-progression
 https://asciinema.org/a/eSMzvVj1RbGQ3rx9ajaRO23xd
+Brain-games - brain-prime
+https://asciinema.org/a/BhfWJH5imY0O4OAN8jmZHzl3t
