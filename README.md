@@ -11,3 +11,4 @@ Brain-games - brain-prime
 https://asciinema.org/a/BhfWJH5imY0O4OAN8jmZHzl3t
 <script src="https://asciinema.org/a/BhfWJH5imY0O4OAN8jmZHzl3t.js" id="asciicast-BhfWJH5imY0O4OAN8jmZHzl3t" async="true"></script>
 <a href="https://asciinema.org/a/BhfWJH5imY0O4OAN8jmZHzl3t" target="_blank"><img src="https://asciinema.org/a/BhfWJH5imY0O4OAN8jmZHzl3t.svg" /></a>
+<a href="https://asciinema.org/a/eSMzvVj1RbGQ3rx9ajaRO23xd" target="_blank"><img src="https://asciinema.org/a/eSMzvVj1RbGQ3rx9ajaRO23xd.svg" /></a>
