@@ -1,6 +1,8 @@
 ### Hexlet tests and linter status:
 [![hexlet-check](https://github.com/OlegRakhilov/python-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/OlegRakhilov/python-project-49/actions/workflows/hexlet-check.yml)
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=OlegRakhilov_python-project-49&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=OlegRakhilov_python-project-49)
+
 Brain-games - brain-calc
 [![asciicast](https://asciinema.org/a/d5zaPItKXJSMcv0dLhdx2EHMU.svg)](https://asciinema.org/a/d5zaPItKXJSMcv0dLhdx2EHMU)
 
