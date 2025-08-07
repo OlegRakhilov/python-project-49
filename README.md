@@ -1,14 +1,14 @@
 ### Hexlet tests and linter status:
-[![Actions Status](https://github.com/OlegRakhilov/python-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/OlegRakhilov/python-project-49/actions)
-https://asciinema.org/connect/58db8bfa-cbf7-4c3a-8b8a-134814c879ad
+[![hexlet-check](https://github.com/OlegRakhilov/python-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/OlegRakhilov/python-project-49/actions/workflows/hexlet-check.yml)
+
 Brain-games - brain-calc
-https://asciinema.org/a/d5zaPItKXJSMcv0dLhdx2EHMU
+[![asciicast](https://asciinema.org/a/d5zaPItKXJSMcv0dLhdx2EHMU.svg)](https://asciinema.org/a/d5zaPItKXJSMcv0dLhdx2EHMU)
+
 Brain-games - brain-gcd
-https://asciinema.org/a/ljHeYc5rRXx0vXixzYLUV8y4h
+[![asciicast](https://asciinema.org/a/ljHeYc5rRXx0vXixzYLUV8y4h.svg)](https://asciinema.org/a/ljHeYc5rRXx0vXixzYLUV8y4h)
+
 Brain-games - brain-progression
-https://asciinema.org/a/eSMzvVj1RbGQ3rx9ajaRO23xd
+[![asciicast](https://asciinema.org/a/eSMzvVj1RbGQ3rx9ajaRO23xd.svg)](https://asciinema.org/a/eSMzvVj1RbGQ3rx9ajaRO23xd)
+
 Brain-games - brain-prime
-https://asciinema.org/a/BhfWJH5imY0O4OAN8jmZHzl3t
-<script src="https://asciinema.org/a/BhfWJH5imY0O4OAN8jmZHzl3t.js" id="asciicast-BhfWJH5imY0O4OAN8jmZHzl3t" async="true"></script>
-<a href="https://asciinema.org/a/BhfWJH5imY0O4OAN8jmZHzl3t" target="_blank"><img src="https://asciinema.org/a/BhfWJH5imY0O4OAN8jmZHzl3t.svg" /></a>
-<a href="https://asciinema.org/a/eSMzvVj1RbGQ3rx9ajaRO23xd" target="_blank"><img src="https://asciinema.org/a/eSMzvVj1RbGQ3rx9ajaRO23xd.svg" /></a>
+[![asciicast](https://asciinema.org/a/BhfWJH5imY0O4OAN8jmZHzl3t.svg)](https://asciinema.org/a/BhfWJH5imY0O4OAN8jmZHzl3t)
